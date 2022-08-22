@@ -14,3 +14,5 @@ This is a paragraph.
 | With two    | columns |
 
 <p>Use the <code>printf()</code> function.</p>
+
+<img>
