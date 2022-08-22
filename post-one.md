@@ -12,3 +12,5 @@ This is a paragraph.
 | And this is | A table |
 |-------------|---------|
 | With two    | columns |
+
+<p>Use the <code>printf()</code> function.</p>
