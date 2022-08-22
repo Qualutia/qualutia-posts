@@ -1,5 +1,4 @@
-`
-  # This is a header
+# This is a header
 
 This is a paragraph.
 
@@ -12,4 +11,4 @@ This is a paragraph.
 
 | And this is | A table |
 |-------------|---------|
-| With two    | columns |`
+| With two    | columns |
