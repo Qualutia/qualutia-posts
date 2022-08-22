@@ -1,3 +1,15 @@
+---
+title: Architectural Inovation
+description: Just some small description nothing large
+author: Paul
+date: 2022-08-30
+category: machine-learning
+
+
+
+---
+
+
 # This is a header for a page in my blog
 
 This is a paragraph.
