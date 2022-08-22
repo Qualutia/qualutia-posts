@@ -1,4 +1,4 @@
-# This is a header
+# This is a header for a page in my blog
 
 This is a paragraph.
 
